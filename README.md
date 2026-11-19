@@ -10,34 +10,50 @@
  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
  
  ## PROCEDURE
- 1.	Open new file and then select sketch icon.
- 2.	Select the plane for sketching. 
- 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+ step 1:Select Sketch and Create Sketch and pick the Front plane. Use the origin as the centre. Place a point 50 mm right and 60 mm up for the top-right circle, and a point 70 mm to the right on the horizontal axis for the side circle.
  
- ![image](https://user-images.githubusercontent.com/113594316/198232594-2187c1c1-4e85-437f-99f7-263bb1a3e968.png)
- 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+<img width="692" height="510" alt="Screenshot 2026-11-12 142923" src="https://github.com/user-attachments/assets/0f670c0f-0687-4044-ab02-34ea1d0801b9" />
+
+ step 2:Select the XY Plane to start the sketch. 
  
- ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
- 
- 5.	Use inspect feature to measure the dimensions of sketch.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
- 
- 6.	After finishing the sketch use finish sketch option to finalize the sketch.
- ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
- 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
- 
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
- 
- 
+ step 3:Draw a horizontal and vertical Centre Line using the Line Tool. 
+
+ <img width="764" height="482" alt="Screenshot 2026-11-13 095921" src="https://github.com/user-attachments/assets/d0f2daa7-de30-4db2-8c67-21b747dc8dd6" />
+
+step 4:Draw the required circles using the Circle Tool. 
+
+<img width="755" height="520" alt="Screenshot 2026-11-13 100114" src="https://github.com/user-attachments/assets/6a8ad824-0cf4-4275-8194-cb19194aa71f" />
+
+step 5:Create the outer profile using the Line and Arc Tools. 
+
+step 6:Apply Fillet with the given radius dimensions. 
+
+<img width="660" height="365" alt="Screenshot 2026-11-12 143020" src="https://github.com/user-attachments/assets/e0c5865e-cd93-45c4-957a-669acda1c2af" />
+
+step 7:Draw the inner circular pattern using the Circle and Line Tools. 
+
+
+step 8:Select the Mirror Tool and mirror the sketch about the centre lines to complete the symmetrical profile. 
+
+<img width="857" height="376" alt="Screenshot 2026-11-13 100512" src="https://github.com/user-attachments/assets/96b70327-6c1b-4cdd-9b82-6444cf06269f" />
+
+step 9 : finally do the design
+
+step 10: do the drawing for the sketch
+
+
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-   <img width="669" height="687" alt="Screenshot 2026-11-18 212240" src="https://github.com/user-attachments/assets/0d3d8ce2-a3dd-4401-af8b-7de98d23d098" />
-   <img width="933" height="725" alt="Screenshot 2026-11-18 212602" src="https://github.com/user-attachments/assets/3d6e151a-c37f-43fb-95a1-611282b23df7" />
+
+ <img width="669" height="687" alt="Screenshot 2026-11-18 212240" src="https://github.com/user-attachments/assets/f14d77e9-8638-425b-8f74-4177b8f17354" />
+
+
+
+<img width="933" height="725" alt="Screenshot 2026-11-18 212602" src="https://github.com/user-attachments/assets/507e6cbf-202c-4579-b992-80267820bd28" />
+
+
 
  
  ## RESULT
